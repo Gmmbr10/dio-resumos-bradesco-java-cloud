@@ -1,0 +1,4 @@
+- Sistema de controle de versão distribuído
+- Open source
+- Ramificações e fusões eficientes
+- Leve e rápido

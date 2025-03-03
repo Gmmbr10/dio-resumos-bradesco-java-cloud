@@ -1,0 +1,30 @@
+- Conjunto de funcionalidades(features) bem definido
+
+## funcionalidades essenciais
+- Não é complexo, é simples, é feito para rodar em dispositivos com pouca memória
+- Orientado a objeto
+	- Tudo é escrito em classes
+	- Pilares do POO
+		- Classe e Objeto
+		- Encapsulamento
+		- Abstração
+		- Herança
+		- Polimorfismo
+- Plataforma independente
+	- Roda em qualquer sistema (linux, windows, mac os, micro-ondas, etc)
+	- É compilado para bytecode
+	- Não é vinculado ao sistema operacional
+- Portátil
+	- Serve em múltiplos sistemas
+- Robusta
+	- Pode encerrar de maneira inesperada
+		- Usa gerenciamento de memória
+		- Tratamento de exceção e verificação de tipo de dado
+- Segura
+	- Fornece recursos de segurança
+	- criptografia e decriptografia
+- Interpretada
+	- É compilada e interpretada
+	- São compilados para gerar os bytecodes que serão interpretados pelo sistema operacional / JVM
+- Multi-thread
+	- Processamento de vários subprocessos ( thread ) de forma performática

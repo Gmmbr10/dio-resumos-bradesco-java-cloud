@@ -1,0 +1,2 @@
+- Plataforma de hospedagem de projetos git
+- Permite uma maior colaboração entre indivíduos
