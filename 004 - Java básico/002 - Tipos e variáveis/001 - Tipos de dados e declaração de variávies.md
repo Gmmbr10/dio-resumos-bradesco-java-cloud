@@ -65,6 +65,8 @@ double salario = 3423.59;
 > **Atenção**
 >
 > O tipo long, deve terminar com `L` e o float deve terminar com `F`
+>
+> O tipo char, deve ser inserido entre aspas simples `''`, enquanto a String deve ser entre aspas duplas `""`
 
 ## Cuidado
 
