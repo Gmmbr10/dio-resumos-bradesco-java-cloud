@@ -1,0 +1,1 @@
+A estrutura condicional possibilita a escolha de um grupo de ações e comportamentos a serem executados quando determinadas condições são ou não atendidas. A estrutura condicional pode ser **simples** ou **composta**.
