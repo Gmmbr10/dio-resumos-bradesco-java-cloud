@@ -7,6 +7,7 @@ Este é um repositório utilizado para armazenar anotações do [Bootcamp brades
 ![Static Badge](https://img.shields.io/badge/História_do_Java-37f?&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=git&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/GitHub-73A?&style=for-the-badge&logo=github&logoColor=fff)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## ❓ | Dúvidas
 
